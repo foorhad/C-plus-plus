@@ -1,2 +1,2 @@
 # C++
-all practice problem hackerrak and codeforces.
+all practice problem hackrrank and codeforces.
